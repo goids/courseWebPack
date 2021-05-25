@@ -1,1 +1,1 @@
-# courseWebPack
+# js-portfolio
